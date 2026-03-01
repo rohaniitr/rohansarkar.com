@@ -1,4 +1,4 @@
 title: Rohan Sarkar
 description: Senior Android Engineer · Mobile Architect
-theme: jekyll-theme-cayman
-show_downloads: false
+theme: minima
+markdown: kramdown
