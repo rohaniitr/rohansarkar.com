@@ -1,0 +1,75 @@
+/* Global */
+body {
+    background-color: #0f172a;
+    color: #e2e8f0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.7;
+}
+
+.site-header, .site-footer {
+    background-color: #0f172a;
+    border: none;
+}
+
+a {
+    color: #38bdf8;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 80px 20px 40px 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #94a3b8;
+}
+
+/* Sections */
+.section {
+    margin-top: 70px;
+}
+
+.section h2 {
+    border-bottom: 1px solid #334155;
+    padding-bottom: 10px;
+    color: #ffffff;
+}
+
+/* Cards */
+.card {
+    background-color: #1e293b;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.highlight {
+    color: #38bdf8;
+    font-weight: 600;
+}
+
+/* Lists */
+ul {
+    padding-left: 20px;
+}
+
+/* Footer */
+.footer-note {
+    margin-top: 80px;
+    font-size: 0.9rem;
+    color: #64748b;
+    text-align: center;
+}
