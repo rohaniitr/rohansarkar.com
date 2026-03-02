@@ -20,21 +20,41 @@ body {
     padding: 80px 24px;
 }
 
-/* Hero */
+/* Hero & Branding */
 .hero {
-    margin-bottom: 80px;
+    margin-bottom: 60px;
+}
+
+.brand-mark {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    color: #86868b;
+    margin-bottom: 24px;
 }
 
 .hero h1 {
     font-size: 3rem;
     font-weight: 600;
-    margin-bottom: 12px;
+    margin-bottom: 8px;
     letter-spacing: -0.02em;
 }
 
+.tagline {
+    font-size: 1.25rem;
+    color: #f5f5f7;
+    margin-bottom: 8px;
+}
+
 .subtitle {
-    font-size: 1.2rem;
-    color: #a1a1a6;
+    font-size: 1rem;
+    color: #86868b;
+}
+
+.intro {
+    font-size: 1.05rem;
+    color: #d2d2d7;
+    line-height: 1.75;
 }
 
 /* Sections */
@@ -47,6 +67,61 @@ body {
     font-weight: 600;
     margin-bottom: 24px;
     letter-spacing: -0.01em;
+}
+
+/* Work Experience */
+.exp-card {
+    background: #111111;
+    padding: 28px;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    border: 1px solid #1c1c1e;
+}
+
+.exp-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.exp-role {
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.exp-company {
+    color: #2997ff;
+    font-size: 0.95rem;
+}
+
+.exp-meta {
+    font-size: 0.85rem;
+    color: #86868b;
+    margin: 8px 0 14px 0;
+}
+
+.exp-desc {
+    color: #d2d2d7;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* Key Metrics */
+.metrics-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px 40px;
+    font-size: 1rem;
+    color: #d2d2d7;
+}
+
+.metric {
+    color: #2997ff;
+    font-weight: 600;
+    margin-right: 4px;
 }
 
 /* Soft cards */

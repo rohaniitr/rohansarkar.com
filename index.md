@@ -5,35 +5,56 @@ layout: default
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <div class="hero">
+<div class="brand-mark">RS</div>
 <h1>Rohan Sarkar</h1>
-<p class="subtitle">
-Senior Android Engineer · Mobile Architect  
-Fintech & Scalable Systems | Performance & Reliability
-</p>
+<p class="tagline">Senior Android Engineer · Mobile Architect</p>
+<p class="subtitle">Fintech & Scalable Systems · Performance & Reliability</p>
 </div>
 
-Senior Android Engineer with **10+ years of experience** building modular, high-performance mobile platforms across fintech, gaming, and digital banking.
-
-I focus on scalable architecture, white-label SDK systems, and reliability-driven engineering with measurable business impact.
+<p class="intro">10+ years building modular, high-performance mobile platforms across fintech, gaming, and digital banking. I focus on scalable architecture, white-label SDK systems, and reliability-driven engineering with measurable business impact.</p>
 
 ---
 
 <div class="section">
-<h2>Selected Impact</h2>
+<h2>Work Experience</h2>
 
-<div class="card">
-Improved payment success rate from <span class="highlight">80% → 96%</span>  
-Reduced average processing time from <span class="highlight">10s → 6s</span>
+<div class="exp-card">
+<div class="exp-header">
+<span class="exp-role">Senior Android Engineer</span>
+<span class="exp-company">Backbase</span>
+</div>
+<div class="exp-meta">2020 – Present · Fintech</div>
+<p class="exp-desc">Led Investments & Payments vertical (5 engineers). Owned quarterly roadmap, API contract finalization with backend teams, and release ownership across multi-client builds. Scaling white-label digital banking modules (~1M MAU).</p>
 </div>
 
-<div class="card">
-Increased crash-free sessions from <span class="highlight">88% → 99.8%</span>  
-Through incremental rollouts and production observability
+<div class="exp-card">
+<div class="exp-header">
+<span class="exp-role">Lead Mobile Engineer</span>
+<span class="exp-company">Gaming</span>
+</div>
+<div class="exp-meta">2017 – 2020 · Consumer Tech</div>
+<p class="exp-desc">Architected multi-process loading strategy, reducing repeat game load time from <span class="highlight">15s → 2s</span>. Implemented caching and lazy-loading pipelines for large-scale mobile games.</p>
 </div>
 
-<div class="card">
-Reduced repeat game load time from <span class="highlight">15s → 2s</span>  
-By architecting a multi-process loading strategy
+<div class="exp-card">
+<div class="exp-header">
+<span class="exp-role">Mobile Engineer</span>
+<span class="exp-company">Fintech</span>
+</div>
+<div class="exp-meta">2014 – 2017 · Banking & Payments</div>
+<p class="exp-desc">Improved payment success rate from <span class="highlight">80% → 96%</span> and processing time from <span class="highlight">10s → 6s</span>. Increased crash-free sessions from <span class="highlight">88% → 99.8%</span> via incremental rollouts and observability.</p>
+</div>
+
+</div>
+
+---
+
+<div class="section">
+<h2>Key Metrics</h2>
+<div class="metrics-row">
+<span class="metric">96%</span> payment success
+<span class="metric">99.8%</span> crash-free
+<span class="metric">2s</span> game load
 </div>
 </div>
 
