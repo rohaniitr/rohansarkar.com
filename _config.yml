@@ -1,4 +1,8 @@
 title: Rohan Sarkar
 description: Senior Android Engineer · Mobile Architect · Fintech & Scalable Mobile Systems
-theme: minima
+theme: jekyll-theme-slate
 markdown: kramdown
+show_downloads: false
+
+github:
+  repository_url: https://github.com/rohaniitr/rohansarkar.com
