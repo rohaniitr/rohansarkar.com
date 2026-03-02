@@ -1,9 +1,15 @@
 ---
 layout: default
-title: Rohan Sarkar
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
+
+<style>
+/* Hide default minima header */
+.site-header {
+    display: none;
+}
+</style>
 
 <div class="hero">
 <h1>Rohan Sarkar</h1>
@@ -25,19 +31,17 @@ I specialize in scalable architecture, white-label SDK systems, and reliability-
 <div class="card">
 <strong>Payment Reliability</strong><br>
 Improved payment success rate from <span class="highlight">80% → 96%</span><br>
-Reduced average processing time from <span class="highlight">10s → 6s</span>
+Reduced processing time from <span class="highlight">10s → 6s</span>
 </div>
 
 <div class="card">
 <strong>Crash-Free Experience</strong><br>
-Improved crash-free sessions from <span class="highlight">88% → 99.8%</span><br>
-Introduced incremental rollout strategies & structured production debugging
+Improved crash-free sessions from <span class="highlight">88% → 99.8%</span>
 </div>
 
 <div class="card">
 <strong>Game Load Optimization</strong><br>
-Reduced repeat load time from <span class="highlight">15s → 2s</span><br>
-Architected multi-process loading with caching & lazy loading
+Reduced repeat load time from <span class="highlight">15s → 2s</span>
 </div>
 
 </div>
@@ -63,7 +67,7 @@ Architected multi-process loading with caching & lazy loading
 <h2>Leadership & Ownership</h2>
 
 - Led Investments & Payments vertical (team of 5 engineers)  
-- Owned quarterly roadmap & delivery planning  
+- Owned quarterly roadmap & delivery  
 - Finalized API contracts with backend teams  
 - Conducted 2+ technical interviews weekly  
 - Release ownership across multi-client builds  
@@ -76,7 +80,7 @@ Architected multi-process loading with caching & lazy loading
 <h2>Current Focus</h2>
 
 - Scaling white-label digital banking modules (~1M MAU)  
-- Platform modularization & build performance optimization  
+- Modular platform evolution  
 - Jetpack Compose migration strategy  
 - Reliability & observability-first engineering  
 
