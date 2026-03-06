@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Use Case Interfaces as API
-date: 2026-03-02
+date: 2025-10-02
 excerpt: How a single interface lets you run demos, develop against a local server, or hit production APIs—without touching feature code.
 ---
 
