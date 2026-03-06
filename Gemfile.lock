@@ -46,7 +46,7 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
-    jekyll-theme-slate (0.2.0)
+    jekyll-theme-cayman (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
     jekyll-watch (2.2.1)
@@ -95,7 +95,7 @@ DEPENDENCIES
   base64
   bigdecimal
   jekyll (~> 3.9)
-  jekyll-theme-slate
+  jekyll-theme-cayman
   kramdown-parser-gfm
   webrick (~> 1.7)
 
@@ -125,7 +125,7 @@ CHECKSUMS
   jekyll (3.10.0) sha256=c4213b761dc7dfe7d499eb742d0476a02d8503e440c2610e19774ee7f0db8d90
   jekyll-sass-converter (1.5.2) sha256=53773669e414dc3bb070113befacb808576025a28cfa4a4accc682e90a9c1101
   jekyll-seo-tag (2.8.0) sha256=3f2ed1916d56f14ebfa38e24acde9b7c946df70cb183af2cb5f0598f21ae6818
-  jekyll-theme-slate (0.2.0) sha256=5e40909de712bbbefbc7a29f17c55bffa326c222f0a13ee1656229a7d43c3439
+  jekyll-theme-cayman (0.2.0) sha256=3c5f14f9c72a8eb03ecc74f9a3e5ecbbc55f9381339978b42dec216921865f2a
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
   kramdown (2.5.2) sha256=1ba542204c66b6f9111ff00dcc26075b95b220b07f2905d8261740c82f7f02fa
   kramdown-parser-gfm (1.1.0) sha256=fb39745516427d2988543bf01fc4cf0ab1149476382393e0e9c48592f6581729
