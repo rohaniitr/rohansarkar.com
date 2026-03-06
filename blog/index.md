@@ -13,7 +13,8 @@ Technical writing on mobile architecture, fintech systems, and engineering pract
 
 ## Posts
 
-{% for post in site.posts %}
+{% assign sorted_posts = site.posts | sort: "date" | reverse %}
+{% for post in sorted_posts %}
 ### [{{ post.title }}]({{ post.url }})
 *{{ post.date | date: "%B %d, %Y" }}*
 
