@@ -20,6 +20,7 @@ Then open http://localhost:4000
 
 ## Project
 
-- **Theme:** [Slate](https://github.com/pages-themes/slate) (Jekyll)
+- **Theme:** [Cayman](https://github.com/pages-themes/cayman) (Jekyll)
 - **Hosting:** GitHub Pages
 - **Domain:** Custom domain via CNAME
+- **Blog:** Posts at `/blog/` with date-based permalinks
