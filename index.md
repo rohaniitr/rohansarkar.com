@@ -63,7 +63,6 @@ Improved payment success rate from 80% → 96% and processing time from 10s → 
 
 ## Connect
 
-- [rohaneeiitr@gmail.com](mailto:rohaneeiitr@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/rohan-sarkar-b5b20b64/)
 - [GitHub](https://github.com/rohaniitr)
 

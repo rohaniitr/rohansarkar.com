@@ -21,7 +21,7 @@ This post covers:
 2. **Retention** – WorkManager deletes logs older than N seconds (config-driven)
 3. **Export flow** – User consent → worker uploads logs in chunks of size M (config-driven)
 4. **Progress UI** – Show upload status on screen
-5. **Architecture** – Screen → ViewModel → Repo → Use case (MVVM)
+5. **Architecture** – Screen → ViewModel → Repo → Use case
 6. **Memory-leak prevention** – Proper lifecycle and scope handling
 
 ---
